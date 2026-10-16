@@ -2,7 +2,7 @@
 
 Controle remoto infravermelho feito com Arduino Uno. Ele captura os códigos IR de um controle de TV, reenvia os comandos pelo emissor e liga/desliga a TV por gesto, usando um sensor ultrassônico.
 
-> Validado somente no hardware físico. Este projeto não tem versão de simulador, porque o Wokwi e o Tinkercad não têm receptor e emissor IR iguais aos usados aqui.
+> Validado somente no hardware. Este projeto não tem versão de simulador, porque o Wokwi e o Tinkercad não têm receptor e emissor IR iguais aos usados aqui.
 
 ## O que ele faz
 
